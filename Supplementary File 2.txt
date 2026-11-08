@@ -1,0 +1,35 @@
+name of plant	abbreviation	source		
+Zea mays	Zm	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Medicago sativa	Ms 22	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Vicia faba	Vb 33	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 129	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 187	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 231	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 245	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 276	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 286	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 287	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 335	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 340	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 350	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 377	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L 406	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Lens culinaris	L434	International Center for Agricultural Research in the Dry Areas (ICARDA).		
+Aegilops tauschii Coss. subsp. tauschii var. tauschii	AE 3	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Triticum aestivum L. var. aestivum	TRI 4889	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Sorghum bicolor (L.) Moench subsp. bicolor race Bicolor	SOR 910	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Beta vulgaris L. subsp. vulgaris convar. vulgaris var. altissima Doll	BETA 341	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Brassica rapa L. subsp. chinensis (L.) Hanet var. rosalins	BRA 77	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Cicer arietinum L.	CIC 728	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Gossypium hirsutum L.	GOS 18	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Vigna angularis (Willd.) Ohwi & H. Ohashi	VIG 1039	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Vigna radiata (L.) R. Wilczek var. setulosa (Dalz.) Ohwi & H. Ohashi	VIG 1529	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Spinacia oleracea L.	SPI 225	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Phaseolus vulgaris L. subsp. vulgaris var. nanus Asch.	PHA 6434	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Cucumis melo L.	CUM 482	Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)		
+Ipomoea nil	IN	"Mohammed VI Polytechnic University campus in Benguerir, Morocco"		
+Olea europaea	OE	"Mohammed VI Polytechnic University campus in Benguerir, Morocco"		
+Vitis vinifera	Vv	"Mohammed VI Polytechnic University campus in Benguerir, Morocco"		
+Capsicum baccatum 	Cb	"Agriculture Research Center, Giza, Egypt."		
+Solanum lycopersicum (cultivar: Patio Choice Hybrid)	sL	"MCKENZIE, Canada"		
+Nicotiana tabacum	Nt	"Agriculture Research Center, Giza, Egypt."		
